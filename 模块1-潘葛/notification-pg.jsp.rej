@@ -1,9 +1,0 @@
-diff a/模块1-潘葛/notification-pg.jsp b/模块1-潘葛/notification-pg.jsp	(rejected hunks)
-@@ -40,6 +40,7 @@
- 						class="icon-align-justify"></i></a></li>
- 			</ul>
- 
-+			<span class="teachCenterTitle">湖南农业大学基地实习综合管理系统</span>
- 			<!-- Navbar Left -->
- 
- 			<!-- Navbar Right -->
