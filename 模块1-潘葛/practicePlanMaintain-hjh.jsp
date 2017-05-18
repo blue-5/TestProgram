@@ -6,8 +6,7 @@
 	String basePath = request.getScheme() + "://"
 			+ request.getServerName() + ":" + request.getServerPort()
 			+ path + "/";
-%>
-
+%>wo zui shuai ++++++++++++++++!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 <!DOCTYPE html>
 <html lang="zh-cn">
