@@ -41,7 +41,6 @@
 			<ul class="nav navbar-nav navbar-actions navbar-left">
 				<li class="visible-md visible-lg"><a><i
 						class="icon-th-large"></i></a></li>
-HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 				<li class="visible-xs visible-sm"><a><i
 						class="icon-align-justify"></i></a></li>
 			</ul>
