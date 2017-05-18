@@ -1,7 +1,7 @@
 <%@ page language="java" import="java.util.*" pageEncoding="utf-8"%>
 <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
-
-<%
+13.37更改13.37更改
+13.37更改<13.37更改13.37更改13.37更改13.37更改13.37更改13.37更改++++++++++++++++++++++++++++++++%
 	String path = request.getContextPath();
 	String basePath = request.getScheme() + "://"
 			+ request.getServerName() + ":" + request.getServerPort()
